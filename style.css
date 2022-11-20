@@ -1,0 +1,8 @@
+@import url(componant/deplacement.css);
+@import url(componant/couleur.css);
+@import url(componant/agencement.css);
+@media screen and (min-width:280px){
+    .header{width: 90%;}
+    .main{width: 90%;}
+    .footer{width: 90%;}
+} 

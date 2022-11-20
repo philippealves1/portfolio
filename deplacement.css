@@ -1,0 +1,56 @@
+.crea{animation: slideright 30s;}
+@keyframes slideright{
+from{transform:translate(30%) ;background-color: aqua;}
+30%{
+    transform: translate(0%);background: #fc3;color: rgb(29, 122, 203);
+}
+80%{transform: translate(95%);background-color: black;color: blueviolet;}
+}
+
+.jv{animation: slideright 22s;}
+@keyframes slideright{
+from{transform:translate(30%) ;background-color: aqua;}
+30%{
+    transform: translate(0%);background: #fc3;color: rgb(29, 122, 203);
+}
+80%{transform: translate(95%);background-color: black;color: blueviolet;}
+}
+h1{text-align: center;}
+h2{text-align: center;}
+.d{animation: slideright 26s;}
+@keyframes slideright{
+from{transform:translate(30%) ;background-color: aqua;}
+30%{
+    transform: translate(0%);background: #fc3;color: rgb(29, 122, 203);
+}
+80%{transform: translate(95%);background-color: black;color: blueviolet;}
+}
+
+.com{animation: slideright 24s;}
+@keyframes slideright{
+from{transform:translate(30%) ;background-color: aqua;}
+30%{
+    transform: translate(0%);background: #fc3;color: rgb(29, 122, 203);
+}
+80%{transform: translate(95%);background-color: black;color: blueviolet;}
+}
+
+.code{animation: slideright 28s;}
+@keyframes slideright{
+from{transform:translate(30%) ;background-color: aqua;}
+30%{
+    transform: translate(0%);background: #fc3;color: rgb(29, 122, 203);
+}
+80%{transform: translate(95%);background-color: black;color: blueviolet;}
+}
+
+.d{display: flex;}
+
+
+
+
+
+.moodboard{animation:slideleft 3s;}
+@keyframes slideleft{
+from{transform: translate(300%);background: red;}
+to{transform: translate(0);}}
